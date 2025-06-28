@@ -100,7 +100,7 @@ Power Query (M Language)
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Nitisha Mehra** from **Indore, India** — a data enthusiast with a strong academic background in **Commerce (B.Com Hons.)from Medicpas- University** and an **MBA from Sage University**.
+Hi, I’m **Nitisha Mehra** from **Indore, India** — a data enthusiast with a strong academic background in **Commerce (B.Com Hons.) from Medicpas- University** and an **MBA from Sage University**.
 
 My core interests lie in **data analytics**, **business operations**, and applying **data-driven solutions** to real-world problems. I believe in continuous learning and enjoy turning raw data into meaningful insights that support strategic decisions.
 
