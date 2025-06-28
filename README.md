@@ -43,7 +43,6 @@ The dashboard visualizes the following critical emergency room KPIs:
 
 Used to generate a dynamic date table in Power BI:
 
-```powerquery
 = List.Dates(#date(2023,01,01), 731, #duration(1,0,0,0))
 🧠 DAX Formulas
 DAX Formula for Age Grouping:
