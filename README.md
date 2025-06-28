@@ -98,25 +98,30 @@ Power Query (M Language)
 
 ---
 
-👩‍💻 About Me
-Hi, I’m Nitisha Mehra from Indore, India — a passionate data enthusiast with a background in Commerce (B.Com Hons.) and an MBA from Sage University.
+Absolutely! Here's a **separate, clean, and well-formatted `About Me` section** that you can add as its own part on your GitHub profile or at the end of your project README:
 
-My interests lie in data analytics, business operations, and using data-driven insights to solve real-world problems.
+---
 
-I’ve interned at Reliance General Insurance and Swastika Investmart Ltd., where I worked on operations and client management. These roles helped me build strong skills in:
+## 👩‍💻 About Me
 
-✅ Communication
+Hi, I’m **Nitisha Mehra** from **Indore, India** — a data enthusiast with a strong academic background in **Commerce (B.Com Hons.)** and an **MBA from Sage University**.
 
-✅ Time Management
+My core interests lie in **data analytics**, **business operations**, and applying **data-driven solutions** to real-world problems. I believe in continuous learning and enjoy turning raw data into meaningful insights that support strategic decisions.
 
-✅ Problem Solving
+* ✅ Communication & Collaboration
+* ✅ Time Management & Problem Solving
+* ✅ Client Handling & Operational Support
 
-💻 Technical Skills:
-Python (NumPy, Pandas), SQL, Excel
+### 💻 Technical Skills:
 
-Data cleaning, visualization, and dashboarding
+* **Languages & Tools**: Python (NumPy, Pandas), SQL, Excel
+* **Analytics**: Data Cleaning, Preprocessing, Visualization
+* **Dashboards**: Power BI (KPI tracking, charts, graphs)
+* **Other**: Google Maps Data Scraping, Web Automation
 
-Power BI and web scraping for business use
+I’m curious, self-motivated, and looking to grow my career in **Data Analytics** or **Business Intelligence**.
 
-I’m curious, self-driven, and always eager to learn new tools and technologies.
-I'm actively seeking opportunities in Data Analytics and Business Intelligence.
+📧 Email: [mehranitisha009@gmail.com](mailto:mehranitisha009@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/nitisha-mehra-680822317)
+
+---
