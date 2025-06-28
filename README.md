@@ -28,7 +28,7 @@ The dashboard visualizes the following critical emergency room KPIs:
 - **Purpose:** Evaluate ER response time and service efficiency  
 
 ### 4. Gender Analysis
-- **Metric:** Count of patients by gender (Male, Female, Other/Unspecified)  
+- **Metric:** Count of patients by gender (Male, Female)  
 - **Purpose:** Analyze demographic patterns and ensure equitable care  
 
 ### 5. Department Referrals
