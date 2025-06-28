@@ -1,4 +1,4 @@
- 🏥 Hospital Emergency Room Analysis Dashboard (Power BI)
+ 🏥 Hospital Emergency Room Analysis Dashboard
 
 ## 📌 Project Purpose
 
