@@ -25,7 +25,7 @@ The dashboard visualizes the following critical emergency room KPIs:
 
 ### 3. Timeliness of Care
 - **Metric:** Percentage of patients seen within 30 minutes  
-- **Purpose:** Evaluate ER response time and service efficiency  
+- **Purpose:** Evaluate ER response time and service efficiency
 
 ### 4. Gender Analysis
 - **Metric:** Count of patients by gender (Male, Female, Other/Unspecified)  
@@ -91,6 +91,16 @@ Microsoft Excel
 DAX (Data Analysis Expressions)
 
 Power Query (M Language)
+
+##--  👩‍💻 About Me
+Hi, I’m Nitisha Mehra from Indore, India — a passionate data enthusiast with a background in Commerce (B.Com Hons.) and an MBA from Sage University. My interests lie in data analytics, business operations, and using data-driven insights to solve real-world problems.
+I've interned at Reliance General Insurance and Swastika Investmart Ltd., where I worked on operations and client management. These roles helped me develop strong communication, time management, and problem-solving skills.
+On the technical side, I’m skilled in:
+•	Python (NumPy, Pandas), SQL, Excel
+•	Data cleaning, visualization, and dashboarding
+•	Tools like Power BI and web scraping for business use
+I'm curious, self-driven, and always eager to learn new tools and technologies. I’m actively seeking opportunities in data analytics and business intelligence.
+[linkedIn](  https://www.linkedin.com/in/nitisha-mehra-680822317)
 
 
 
