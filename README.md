@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Analysis Dashboard (Power BI)
+ 🏥 Hospital Emergency Room Analysis Dashboard (Power BI)
 
 ## 📌 Project Purpose
 
@@ -25,7 +25,7 @@ The dashboard visualizes the following critical emergency room KPIs:
 
 ### 3. Timeliness of Care
 - **Metric:** Percentage of patients seen within 30 minutes  
-- **Purpose:** Evaluate ER response time and service efficiency
+- **Purpose:** Evaluate ER response time and service efficiency  
 
 ### 4. Gender Analysis
 - **Metric:** Count of patients by gender (Male, Female, Other/Unspecified)  
@@ -48,22 +48,26 @@ Used to generate a dynamic date table in Power BI:
 🧠 DAX Formulas
 DAX Formula for Age Grouping:
 
-Age Group = 
-IF([Patient Age]>=70, "70-79", 
- IF([Patient Age]>=60, "60-69", 
- IF([Patient Age]>=50, "50-59", 
- IF([Patient Age]>=40, "40-49", 
- IF([Patient Age]>=30, "30-39", 
- IF([Patient Age]>=20, "20-29", 
+
+Age Group =
+IF([Patient Age]>=70, "70-79",
+ IF([Patient Age]>=60, "60-69",
+ IF([Patient Age]>=50, "50-59",
+ IF([Patient Age]>=40, "40-49",
+ IF([Patient Age]>=30, "30-39",
+ IF([Patient Age]>=20, "20-29",
  IF([Patient Age]>=10, "10-19", "0-4")))))))
 DAX Formula for Patient Attend Status (Timeliness):
 
+
 Patient Attend Status = IF([Patient Waittime] < 30, "Within Time", "Delayed")
 📂 Project Files
-File Name	Description
-HospitalER.pbix	Power BI dashboard project file
-ER_Dataset.xlsx	Source dataset used for the dashboard
-README.md	Project overview and documentation
+File Name Description
+HospitalER.pbix Power BI dashboard project file
+ER_Dataset.xlsx Source dataset used for the dashboard
+README.md Project overview and documentation
+
+---
 
 📌 Insights & Impact
 This dashboard provides clear visibility into emergency room dynamics and helps healthcare providers to:
@@ -92,33 +96,27 @@ DAX (Data Analysis Expressions)
 
 Power Query (M Language)
 
-------
+---
 
-��‍�� About
-Hi, I’m Nitisha Mehra from Indore, India — a passionate data enthusiast with a background in
-Commerce (B.Com Hons.) and an MBA from Sage University.
-My interests lie in data analytics, business operations, and using data-driven insights to solve
-real-world problems.
-I’ve interned at Reliance General Insurance and Swastika Investmart Ltd., where I worked on
-operations and client management. These roles helped me build strong skills in:
+👩‍💻 About Me
+Hi, I’m Nitisha Mehra from Indore, India — a passionate data enthusiast with a background in Commerce (B.Com Hons.) and an MBA from Sage University.
+
+My interests lie in data analytics, business operations, and using data-driven insights to solve real-world problems.
+
+I’ve interned at Reliance General Insurance and Swastika Investmart Ltd., where I worked on operations and client management. These roles helped me build strong skills in:
+
 ✅ Communication
+
 ✅ Time Management
+
 ✅ Problem Solving
-Technical Skills:
-**✅Python (NumPy, Pandas),✅ SQL, ✅ Excel
-✅Data cleaning, ✅visualization, and dashboarding
-✅ Power BI and web scraping for business use.
-I am curious, self-driven, and always eager to learn new tools and technologies. I&#39;m actively
-seeking opportunities in Data Analytics and Business Intelligence.
-�� [Visit my LinkedIn profile](https://www.linkedin.com/in/nitisha-mehra-680822317)
 
+💻 Technical Skills:
+Python (NumPy, Pandas), SQL, Excel
 
+Data cleaning, visualization, and dashboarding
 
+Power BI and web scraping for business use
 
-
-
-
-
-
-
-
+I’m curious, self-driven, and always eager to learn new tools and technologies.
+I'm actively seeking opportunities in Data Analytics and Business Intelligence.
