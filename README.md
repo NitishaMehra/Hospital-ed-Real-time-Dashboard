@@ -97,9 +97,6 @@ Power Query (M Language)
 
 ---
 
-Absolutely! Here's a **separate, clean, and well-formatted `About Me` section** that you can add as its own part on your GitHub profile or at the end of your project README:
-
----
 
 ## 👩‍💻 About Me
 
