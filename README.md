@@ -92,6 +92,8 @@ DAX (Data Analysis Expressions)
 
 Power Query (M Language)
 
+------
+
 ��‍�� About
 Hi, I’m Nitisha Mehra from Indore, India — a passionate data enthusiast with a background in
 Commerce (B.Com Hons.) and an MBA from Sage University.
@@ -103,10 +105,10 @@ operations and client management. These roles helped me build strong skills in:
 ✅ Time Management
 ✅ Problem Solving
 Technical Skills:
-Python (NumPy, Pandas), SQL, Excel
-Data cleaning, visualization, and dashboarding
-Power BI and web scraping for business use
-I&#39;m curious, self-driven, and always eager to learn new tools and technologies. I&#39;m actively
+**✅Python (NumPy, Pandas),✅ SQL, ✅ Excel
+✅Data cleaning, ✅visualization, and dashboarding
+✅ Power BI and web scraping for business use.
+I am curious, self-driven, and always eager to learn new tools and technologies. I&#39;m actively
 seeking opportunities in Data Analytics and Business Intelligence.
 �� [Visit my LinkedIn profile](https://www.linkedin.com/in/nitisha-mehra-680822317)
 
